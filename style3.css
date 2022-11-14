@@ -1,0 +1,196 @@
+* {
+    box-sizing: border-box;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+body {
+    margin:0;
+}
+
+header {
+    font: size 0;
+    /*border-botton: 1px solid black; */
+    box-shadow: 0px 0px 5px grey;
+}
+header {
+    display: block;
+    height: 70px;
+    width: 100%;
+    /* border 1px solid red: */
+    font-size: 1rem;
+    padding: 1px;
+    }
+#div1 {        
+    margin-top: 20px;   
+    margin-right: 50px;      
+
+    margin: left 15px; ;
+    
+
+    }
+
+img {
+        display: inline-block;
+        width: 250px;
+        margin-left: 100px;
+        height: 150px;
+        padding-bottom: 75px;
+        }
+
+#location {
+    display: inline-block;
+    padding-left: 300px;
+    padding-right: 5px;
+    
+    
+}
+#span1 {
+    display: inline-block;
+      padding-left: 2px;
+      padding-right: 8px;
+} 
+
+#inf {
+    padding-left: 2px;
+    padding-right: 5px;
+    
+}
+
+#span2{
+    padding-left: 2px;
+    padding-right: 8px;
+}
+#id{
+    padding-left: 2px;
+    padding-right: 8px;
+}
+#Id{
+    padding-left: 2px;
+    padding-right: 8px;
+}
+
+#phone{
+    padding-left: 2px;
+    padding-right: 8px;
+}
+#Phone{
+    padding-left: 2px;
+    padding-right: 8px;
+}
+
+#header2{
+    
+    /*border-botton: 1px solid black; */
+    box-shadow: 0px 0px 1px grey;
+    padding-top: 10px;
+    margin-bottom: 2px;
+    
+}
+#menú {
+    margin-left: 20px;
+}
+#but1{
+    margin-left: 150px;
+    margin-top: 10px;
+    border: 0ch;
+    background-color: white;
+   
+    }
+#but2{
+    margin-left: 10px;
+    margin-top: 10px;
+    border: 0ch;
+    background-color: white;
+    }
+    
+#but3{
+    margin-left: 10px;
+    margin-top: 10px;
+    border: 0ch;
+    background-color: white;
+    }
+    
+#but4{
+    margin-left: 10px;
+    margin-top: 10px;
+    border: 0ch;
+    background-color: white;
+    }
+#but5{
+    margin-left: 10px;
+    margin-top: 10px;
+    border: 0ch;
+    background-color: white;
+    }
+#but6{
+    margin-left: 10px;
+    margin-top: 10px;
+    border: 0ch;
+    background-color: white;
+    }
+#but7{
+    margin-left: 10px;
+    margin-top: 10px;
+    border: 0ch;
+    background-color: white;
+    }
+#but8 {
+    margin-left: 10px;
+    margin-top: 10px;
+    border: 0ch;
+    background-color: white;
+}
+#but9 {
+    margin-left: 10px;
+    margin-top: 10px;
+    border: 0ch;
+    background-color: white;
+}
+#but10 {
+    margin-left: 10px;
+    margin-top: 10px;
+    border: 0ch;
+    background-color: white;
+}
+#but11 {
+    margin-left: 10px;
+    margin-top: 10px;
+    border: 0ch;
+    background-color: white;
+}
+
+#body{
+    background-color: grey;
+}
+#init {
+    padding-left: 100px;
+    margin-right: 5px;
+}
+#botones {
+    display: inline-block;
+    padding-left: 100px;
+ 
+}
+
+#butt1{
+    background-color: green;
+    border: 5px;
+    margin: 4px 4px;
+
+
+}
+
+#Cerdeña {
+    height: 300px;
+    width: 500px;
+
+}
+#Toscana{
+    height: 300px;
+    width: 500px;
+    padding-left: 30px;
+}
+h1{
+    font-size: 12px;
+}
